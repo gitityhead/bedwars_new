@@ -1552,3 +1552,38 @@ shop-items-messages:
     content-item-tower-name: '&cName not set'
     content-item-tower-lore: '&cLore not set'
 upgrades-menu-gui-name-default: '&8Upgrades & Traps'
+display-group-solo: Solo
+team-name-world-red: red
+team-name-world-aqua: aqua
+team-name-world-blue: blue
+team-name-world-white: white
+team-name-world-green: green
+team-name-world-pink: pink
+team-name-world-yellow: yellow
+team-name-world-gray: gray
+team-name-vania-Pink: Pink
+team-name-vania-White: White
+team-name-vania-Red: Red
+team-name-vania-Gray: Gray
+team-name-vania-Blue: Blue
+team-name-vania-Green: Green
+team-name-vania-Yellow: Yellow
+team-name-vania-Aqua: Aqua
+display-group-doubles: Doubles
+team-name-vania_double-Pink: Pink
+team-name-vania_double-White: White
+team-name-vania_double-Red: Red
+team-name-vania_double-Gray: Gray
+team-name-vania_double-Blue: Blue
+team-name-vania_double-Green: Green
+team-name-vania_double-Yellow: Yellow
+team-name-vania_double-Aqua: Aqua
+display-group-4v4v4v4: 4v4v4v4
+team-name-vania_squad-Pink: Pink
+team-name-vania_squad-White: White
+team-name-vania_squad-Red: Red
+team-name-vania_squad-Gray: Gray
+team-name-vania_squad-Blue: Blue
+team-name-vania_squad-Green: Green
+team-name-vania_squad-Yellow: Yellow
+team-name-vania_squad-Aqua: Aqua

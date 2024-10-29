@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "d57e8535-52f3-35e1-87eb-f49a9cd1bab2",
+    "name": "gitityhead",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ed01f2cb-0a18-44ec-9380-9578af7aed11",
     "name": "gitityhead",
     "level": 4,
